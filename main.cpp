@@ -1,3 +1,6 @@
+
+// Hecho por Jean Carlos Chata Condori--> UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
 #include <iostream>
 #include <winbgim.h>
 #include <string>
