@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714796931 source:j:\2 una puno\7mo semestre\computacion grafica\introducir cadena\main.cpp
+	<iostream>
+	<winbgim.h>
+	<string>
+	<cstdlib>
+	<ctime>
+
